@@ -1,0 +1,5 @@
+resources:
+  - flask-app-service.yaml
+  - flask-app-deployment.yaml
+  - mysql-service.yaml
+  - mysql-deployment.yaml
